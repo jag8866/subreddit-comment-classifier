@@ -1,6 +1,6 @@
 '''
 Reddit Comment Harvester
-Accepts any subreddit, creates a file with all comments in plaintext.
+Accepts any subreddit, creates a file with all comments in pickled plaintext.
 '''
 import praw
 import pickle
